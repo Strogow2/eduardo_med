@@ -1,0 +1,48 @@
+site_name: Coello
+nav:
+  - Home: index.md 
+  - About: about.md
+  - Page 2: page2.md 
+  - User Guide:
+      - 'test_1': testing_1.md
+        ## Doest his even work
+
+
+theme :
+  name: material
+  features:
+    - navigation.tabs
+    - navitagion.sections
+    - toc.intergrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - contant.code.annotation
+    - content.code.copy
+  langyage: en
+  palette:
+    - scheme: default
+      toggle: 
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate 
+      toggle: 
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime    
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Strogow2
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/edum3800
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/eduardomedinaoliveira/
+#extra_css:
+
+#  - stylesheets/custom.css
