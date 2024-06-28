@@ -1,6 +1,6 @@
 ## **Professional Experiences**
 
-**Reg Reporting Data Analyst**, NatWest Markets, Amsterdam&emsp;&emsp;&emsp;Nov 2023 - Present
+**Reg Reporting Data Analyst**, NatWest Markets, Amsterdam Nov 2023 - Present
 
 * Wrote a Python script as a solution for short-term liquidity reporting, decreasing
 submission time by 4 hours
@@ -10,7 +10,7 @@ portfolio, and capital
 deliveries of DGS reports
 * Involved in data management and troubleshooting in tooling issues
 
- **Research Assistant**, University of Amsterdam&emsp;&emsp;&emsp;Feb 2023 - Aug 2023
+ **Research Assistant**, University of Amsterdam Feb 2023 - Aug 2023
 
 * Partnered with an Associate Professor to write a python script aimed at large-scale data
 scraping, gathering relevant data on equity compensation for all public companies in the
@@ -19,7 +19,7 @@ pharmaceutical industry in the US
 professor on the
 * Implemented diff-in-diff, and multiple parameter regressions to determine the role o
 
-**Teaching assistant**, University of Amsterdam&emsp;&emsp;&emsp;Sep 2022 - Sep 2023
+**Teaching assistant**, University of Amsterdam Sep 2022 - Sep 2023
 
 * Taught biweekly tutorials for two years in Economics, Finance, and Research
 Methodology.
@@ -37,7 +37,7 @@ students, and ensured students were in a comfortable learning environment
 in asset pricing with a focus on cross-sectional and time series momentum
 * Developed and tested advanced volatility risk models such as GARCH
 
- **BSc Business and Business Economics**, Univesisty of Amsterdam&emsp;&emsp;&emsp;2019 - 2022
+ **BSc Business and Business Economics**, Univesisty of Amsterdam 2019 - 2022
 
 ## **Extra Information**
 
