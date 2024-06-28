@@ -1,39 +1,38 @@
-site_name: Coello
+site_name: Eduardo Medina
 nav:
-  - Home: index.md 
-  - About: about.md
-  - Page 2: page2.md 
-  - User Guide:
-      - 'test_1': testing_1.md
+  - Projects: index.md 
+  - CV: page2.md
+  - About Me: about.md
         ## Doest his even work
-
+missing: Missing_data_Everywhere.md
 
 theme :
   name: material
+  font:
+    text: Roboto
   features:
+    - header.autohide
     - navigation.tabs
-    - navitagion.sections
+    #- navitagion.sections
     - toc.intergrate
     - navigation.top
-    - search.suggest
-    - search.highlight
     - content.tabs.link
     - contant.code.annotation
     - content.code.copy
-  langyage: en
+  language: en
   palette:
     - scheme: default
       toggle: 
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
-      accent: purple
+      primary: black
+      accent: deep purple
     - scheme: slate 
       toggle: 
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
-      accent: lime    
+      primary: black
+      accent: deep purple    
 
 extra:
   social:
@@ -43,6 +42,9 @@ extra:
       link: https://x.com/edum3800
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/eduardomedinaoliveira/
-#extra_css:
-
+  homepage: http://127.0.0.1:8000/
+extra_css:
+  - stylesheets/extra.css
 #  - stylesheets/custom.css
+extra_javascript:
+  - javascripts/extra.js
