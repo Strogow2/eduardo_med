@@ -62,5 +62,5 @@ In my thesis I apply the ML model of X and Y (2022) to a novel dataset of more t
 
 Click [**HERE**][2] if you want to read through the thesis
 
-[2]: thesis_missing\missing_thesis.pdf
+[2]: missing_thesis.pdf
 
