@@ -1,4 +1,4 @@
--------
+
 ## Abstract
 This paper reports on the missingness of observations in data for more than 120 factors found in the finance literature. No stock has all factors observed at any point in time, a problem that is highlighted by the multidimensional nature of asset pricing data. Due to the complex nature of missing patterns and their importance for inference on anomalies, I perform a comparative analysis of imputation methods for missing data in the cross-section of char acteristics. Through an EM algorithm, I perform imputations for 120 signals. 
 
@@ -41,6 +41,7 @@ Notably, in most novel datasets in the current literature, missing observations 
         </tbody>
     </table>
 </div>
+
 
 The data above consists of three datasets that contain fator data. A factor here refers to a characteristic or signal that is assumed to produce abnormal returns. All three datasets were built in somewhat a similar way. They scraped signals that were published in the literature, replicated the signals and constructed a large panel dataset with signals across time. As you observed in the table above, many of those signals have missing data.
 
