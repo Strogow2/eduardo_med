@@ -53,6 +53,11 @@ However, when taking a close look at **how** data is missing, we can see that cu
    
 ![Graph_1](img/thesis_graph1.png)
 
+From the graph above one can see that missing data is not missing in a homogeneous way. Other characteristics of the distribution of missing data are further explored in the paper. In short, I find that current ways of dealing with missing data are likely biasing estimates and fidings, leading to misleading results. Moreover, even when using more complex models for infering missing data, they are very dependent on their training dataset.
+
+In my thesis I apply the ML model of X and Y (2022) to a novel dataset of more than 100 signals, maintained by (xxx). I show that thought the performance of the model higly dependent on the number of signals and we get considerable different results on abnormal returns when data is imputed with a ML model instead of using simple cross sectional means for filling in missing observations:
+
+![Graph_2](img/thesis_graph3.png)
 
 <br /> 
 <br /> 
