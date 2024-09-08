@@ -60,7 +60,7 @@ In my thesis I apply the ML model of X and Y (2022) to a novel dataset of more t
 
 ![Graph_2](img/thesis_graph3.png)
 
-Click [**HERE**](assets\missing_thesis.pdf) if you want to read through the thesis
+Click [**HERE**](assets/missing_thesis.pdf) if you want to read through the thesis
 
 
 
