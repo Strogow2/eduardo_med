@@ -1,8 +1,7 @@
 site_name: Eduardo Medina
 nav:
   - Projects: index.md 
-  - CV: page2.md
-  - About Me: about.md
+  - About: about.md
         ## Doest his even work
 missing: Missing_data_Everywhere.md
 
