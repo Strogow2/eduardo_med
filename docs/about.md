@@ -6,5 +6,9 @@ authors:
 date: 2024-06-23
 ---
 
-Aspiring researcher. Interested in financial markets, econometrics, and programming. Currently based in Amsterdam
+Aspiring researcher. 
+
+Interested in financial markets, econometrics, and programming. 
+
+Currently based in Amsterdam
 
