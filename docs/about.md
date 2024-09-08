@@ -12,4 +12,5 @@ Interested in financial markets, econometrics, and programming.
 
 Currently based in Amsterdam
 
+
 [**CV**](assets/CV.pdf)
