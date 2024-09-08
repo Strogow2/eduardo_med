@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
   document.addEventListener("DOMContentLoaded", function() {
-    const images = document.querySelectorAll('img[src*="thesis_graph3png"]');
+    const images = document.querySelectorAll('img[src*="thesis_graph3.png"]');
     
     const options = {
       root: null, // Use the viewport as the container
