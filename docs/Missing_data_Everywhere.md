@@ -60,6 +60,9 @@ In my thesis I apply the ML model of Chen and McCoy (2024) to a novel dataset of
 
 ![Graph_2](img/thesis_graph3.png)
 
+<br /> 
+<br /> 
+
 Click [**HERE**](assets/missing_thesis.pdf) if you want to read through the thesis
 
 
